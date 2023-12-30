@@ -1,0 +1,19 @@
+{
+  "name": "youtubecloneme",
+  "version": "1.0.0",
+  "description": "A big project with multilevel complex and production level code for youtubeClone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "youtube",
+    "clone",
+    "production",
+    "level",
+    "code"
+  ],
+  "author": "Sarowar Hossen",
+  "license": "ISC"
+}
